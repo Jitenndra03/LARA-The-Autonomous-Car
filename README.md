@@ -12,7 +12,7 @@ The project is actively being developed, and more details will be shared soon. S
 
 ### 🤝 Team Collaboration
 
-<a href="https://github.com/RudeHats"> <img src="https://img.shields.io/badge/-RudeHats-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/SwayamAnshu"> <img src="https://img.shields.io/badge/-SwayamAnshu-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/Jitenndra03"> <img src="https://img.shields.io/badge/-Jitenndra03-181717?style=for-the-badge&logo=github" /> </a>
+<a href="https://github.com/RudeHats"> <img src="https://img.shields.io/badge/-RudeHats-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/SwayamAnshu"> <img src="https://img.shields.io/badge/-SwayamAnshu-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/Jitenndra03"> <img src="https://img.shields.io/badge/-Jitenndra03-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/2213393AH"> <img src="https://img.shields.io/badge/-2213393AH-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/IAbhisek"> <img src="https://img.shields.io/badge/-IAbhisek-181717?style=for-the-badge&logo=github" /> </a>
 
 
 Feel free to watch or star the repository to get notifications about future updates!

@@ -4,16 +4,17 @@ import pyaudio
 from vosk import Model, KaldiRecognizer
 from gtts import gTTS
 import tempfile
+#import mpg321
 # pip install mpg321 before running the programm 
 
 # Initialize Vosk model for speech recognition
-model = Model("/home/jitendra/Desktop/Project Cheeta/LARA-The-Autonomous-Car/models/vosk-model-small-en-us-0.15")
+model = Model("models/vosk-model-small-en-us-0.15")
 commands_grammar = '["move forward", "move backward", "turn left", "turn right", "stop", "hello"]'
 recognizer = KaldiRecognizer(model, 16000, commands_grammar)
 
 # Set up PyAudio for capturing audio from the microphone
 audio = pyaudio.PyAudio()
-stream = audio.open(format=pyaudio.paInt16, channels=1, rate=12000, input=True, frames_per_buffer=2000)
+stream = audio.open(format=pyaudio.paInt16, channels=1, rate=16000, input=True, frames_per_buffer=3600)
 stream.start_stream()
 
 # Function to speak the response in real time using gTTS

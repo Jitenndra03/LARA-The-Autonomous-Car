@@ -43,7 +43,7 @@ if not os.path.exists('captured'):
     os.makedirs('captured')
 
 # Start webcam video stream
-video_stream = cv2.VideoCapture(0)
+video_stream = cv2.VideoCapture(2)
 
 # Capture frames every 5 seconds
 capture_interval = 2  # 5 seconds

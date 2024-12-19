@@ -7,7 +7,7 @@ hands = mp_hands.Hands(min_detection_confidence=0.7, min_tracking_confidence=0.7
 mp_draw = mp.solutions.drawing_utils
 
 # Initialize webcam
-cap = cv2.VideoCapture(2)
+cap = cv2.VideoCapture(0)
 
 def count_fingers(hand_landmarks):
     # List to store the state of each finger (1 = up, 0 = down)
